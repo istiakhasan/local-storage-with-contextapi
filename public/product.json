@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "Name": "Liam",
+      "Profession": "Game Developer",
+      "Age": 30,
+      "Country": "UAE",
+      "Email": "liam@gmail.com",
+      "Salary": 950,
+      "image":"/images/photo-1.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "Olivia",
+      "Profession": "Front-End Developer",
+      "Age": 26,
+      "Country": "USA",
+      "Email": "olivia@gmail.com",
+      "Salary": 900,
+      "image":"./images/photo-2.jpg"
+    },
+    {
+      "id": 3,
+      "Name": "Noah",
+      "Profession": " Android Game App Developer",
+      "Age": 32,
+      "Country": "INDIA",
+      "Email": "noah@gmail.com",
+      "Salary": 1500,
+      "image":"/images/photo-3.jpg"
+    },
+    {
+      "id": 4,
+      "Name": "William",
+      "Profession": " Mobile Application Developer",
+      "Age": 33,
+      "Country": "NEPAL",
+      "Email": "william@gmail.com",
+      "Salary": 2500,
+      "image":"./images/photo-4.jpg"
+    },
+    {
+      "id": 5,
+      "Name": "Isabella",
+      "Profession": "Web developer & Software Engineer",
+      "Age": 30,
+      "Country": "Turkey",
+      "Email": "isabella@gmail.com",
+      "Salary": 500,
+      "image":"./images/photo-5.jpg"
+    },
+    {
+      "id": 6,
+      "Name": "Lucas",
+      "Profession": "Front-End Developer ",
+      "Age": 38,
+      "Country": "Pakistan",
+      "Email": "lucas@gmail.com",
+      "Salary": 300,
+      "image":"./images/photo-6.jpg"
+    },
+    {
+      "id": 7,
+      "Name": "Alexander",
+      "Profession": "Software Engineer",
+      "Age": 24,
+      "Country": "BD",
+      "Email": "alexander@gmail.com",
+      "Salary": 1300,
+      "image":"./images/photo-7.jpg"
+    },
+    {
+      "id": 8,
+      "Name": "Harper",
+      "Profession": "Front-End Developer",
+      "Age": 19,
+      "Country": "Canada",
+      "Email": "haper@gmail.com",
+      "Salary": 8510,
+      "image":"./images/photo-8.jpg"
+    },
+    {
+      "id": 9,
+      "Name": "Charlotte",
+      "Profession": "Front-End Developer",
+      "Age": 40,
+      "Country": "Rassuia",
+      "Email": "charlotte@gmail.com",
+      "Salary": 1150.20,
+      "image":"./images/photo-9.jpg"
+    },
+    {
+      "id": 10,
+      "Name": "Amelia",
+      "Profession": "Backend Developer",
+      "Age": 29,
+      "Country": "Pakistan",
+      "Email": "amelia@gmail.com",
+      "Salary": 860,
+      "image":"./images/photo-10.jpg"
+    },
+    {
+      "id": 11,
+      "Name": "Evelyn",
+      "Profession": "Front-End Developer",
+      "Age": 49,
+      "Country": "Nigeria",
+      "Email": "evelyn@gmail.com",
+      "Salary": 680.80,
+      "image":"./images/photo-11.jpg"
+    },
+    {
+      "id": 12,
+      "Name": "Sophia",
+      "Profession": "Front-End Developer",
+      "Age": 30,
+      "Country": "China",
+      "Email": "sophia@gmail.com",
+      "Salary": 502,
+      "image":"./images/photo-12.jpg"
+    }
+    
+  ]
